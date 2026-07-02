@@ -1,0 +1,9 @@
+# Virtual Environments
+venv/
+__pycache__/
+
+# Databases (for later)
+chroma_db/
+
+# Secrets
+.env
